@@ -1,0 +1,7 @@
+prefix = "/"
+
+[Notify]
+[Notify.Twitch]
+streamer = "Origamijr"
+loop = 10
+channel_id = 388253997359693826
